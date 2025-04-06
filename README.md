@@ -1,7 +1,7 @@
 # 📊 Power BI Sales Dashboard
 
-![Dashboard Screenshot](![Screenshot 2025-04-06 095405](https://github.com/user-attachments/assets/e37b84d8-8e58-4549-94d9-5190bfc14ada)
-)
+(![Screenshot 2025-04-06 095405](https://github.com/user-attachments/assets/e37b84d8-8e58-4549-94d9-5190bfc14ada)
+
 
 
 ---
@@ -58,13 +58,19 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 
 ## 📂 File Structure
 
-```bash
 ├── Power BI Project.pbix       # Main Power BI report
 ├── screenshot.png              # Dashboard screenshot
 └── README.md                   # Project documentation
 
-📬 Contact
-Created by Navya Sri Gude-navyasrigude3@gmail.com
+
+---
+## 📬 Contact
+Created by Navya Sri Gude – navyasrigude3@gmail.com
 Feel free to reach out for feedback, collaboration, or enhancements.
+
+
+
+
+
 
 
