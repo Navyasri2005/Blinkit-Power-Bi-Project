@@ -58,9 +58,11 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 
 ## 📂 File Structure
 
+```bash
 ├── Power BI Project.pbix       # Main Power BI report
 ├── screenshot.png              # Dashboard screenshot
 └── README.md                   # Project documentation
+
 
 
 ---
